@@ -1,0 +1,23 @@
+# - layout: top-middle
+- layout: top-middle
+  name: TIBRV 버전 만료로 인한 운영 시스템 변경, 배포 및 해외 사이트 확산 진행 
+  # company: SK주식회사 C&C
+  # job_title: 조립 MES 운영 (C#, Dotnet, Oracle)
+  dates: 2021.08 ~ 2022.03
+  
+  description: | # this will include new lines to allow paragraphs
+    * TIBRV 버전 만료로 인한 운영 시스템 변경, 배포 및 해외 사이트 확산 진행 
+    * 업데이트 관련 에러 사항 제공 업체와 우선적으로 Comm 후 작업 메뉴얼 작성
+    * 확산 관련 문의 대응 및 해외 사이트 교육 진행
+
+# - layout: top-middle
+- layout: top-middle
+  name: MDM Project 참여
+  # company: SK주식회사 C&C
+  # job_title: 조립 MES 운영 (C#, Dotnet, Oracle)
+  dates: 2021.05 ~ 2021.11
+  description: | # this will include new lines to allow paragraphs
+    * 각 시스템 별로 관리하는 기준 정보를 중앙화 하여 관리하는 프로젝트
+    * 국내, 미주, 중국, 헝가리 관련 운영 문의 대응
+
+

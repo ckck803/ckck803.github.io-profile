@@ -1,0 +1,9 @@
+- layout: left
+  company: SK주식회사 C&C
+  job_title: 조립 MES 운영 (C#.net, Oracle)
+  dates: 2021.01 ~ 현재
+  description: | # this will include new lines to allow paragraphs
+    * 배터리 공정 내 `조립` 파트에서 현재 운영 지원 및 장애 대응, MES 기능 개발 및 BugFix 
+    * 국내, 미주, 헝가리 관련 운영 문의 대응
+    * DBA 분과 함께 지연 쿼리에 대한 쿼리 수정 및 튜닝
+    * 파트 내 소스 형상관리(Tool: Git, BitBucket, Bamboo)를 담당하고 있습니다.
